@@ -30,22 +30,22 @@
 }
 
   .top {
-    background-color: #88a376;
-      border: 1px solid rgba(0, 0, 0, 0.8);
+    background-color: #ffffff;
       margin: 10px;
       border-radius: 30px;
+      opacity: 75%;
   }
   .middle {
-    background-color: #375369;
-      border: 1px solid rgba(0, 0, 0, 0.8);
+    background-color: #ffffff;
       margin: 10px;
       border-radius: 30px;
+      opacity: 75%;
   }
   .bottom {
-    background-color: #14802b;
-      border: 1px solid rgba(0, 0, 0, 0.8);
+    background-color: #ffffff;
       margin: 10px;
       border-radius: 30px;
+      opacity: 75%;
   }
 footer {
     display: flex;
@@ -57,5 +57,5 @@ footer {
   }
 
 body, header, footer {
-    background-color: gray;
+    background-color: rgb(216, 216, 216);
 }
