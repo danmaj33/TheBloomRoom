@@ -25,6 +25,7 @@
   padding: 20px;
   margin: 5px;
   width: 25%;
+  border: 1px solid rgba(0, 0, 0, 0.8);
 }
 
   .top {
