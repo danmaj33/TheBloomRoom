@@ -13,6 +13,9 @@
     text-align: center;
   }
 
+  .menu {
+    display: inline;
+  }
   .top {
     background-color: #88a376;
   }
