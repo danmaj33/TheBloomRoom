@@ -52,3 +52,7 @@ footer {
     border-radius: 30px;
     text-align: center;
   }
+
+body, header, footer {
+    background-color: gray;
+}
