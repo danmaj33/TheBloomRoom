@@ -33,16 +33,19 @@
     background-color: #88a376;
       border: 1px solid rgba(0, 0, 0, 0.8);
       margin: 10px;
+      border-radius: 30px;
   }
   .middle {
     background-color: #375369;
       border: 1px solid rgba(0, 0, 0, 0.8);
       margin: 10px;
+      border-radius: 30px;
   }
   .bottom {
     background-color: #14802b;
       border: 1px solid rgba(0, 0, 0, 0.8);
       margin: 10px;
+      border-radius: 30px;
   }
 footer {
     display: flex;
