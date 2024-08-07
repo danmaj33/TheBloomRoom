@@ -45,19 +45,7 @@ a {
       font-style: normal;
 }
 
-  .top {
-    background-color: #ffffff;
-      margin: 10px;
-      border-radius: 30px;
-      opacity: 75%;
-  }
-  .middle {
-    background-color: #ffffff;
-      margin: 10px;
-      border-radius: 30px;
-      opacity: 75%;
-  }
-  .bottom {
+  .bottom, .middle, .top {
     background-color: #ffffff;
       margin: 10px;
       border-radius: 30px;
