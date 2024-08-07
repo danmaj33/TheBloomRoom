@@ -30,14 +30,17 @@
   .top {
     background-color: #88a376;
       border: 1px solid rgba(0, 0, 0, 0.8);
+      margin: 10px;
   }
   .middle {
     background-color: #375369;
       border: 1px solid rgba(0, 0, 0, 0.8);
+      margin: 10px;
   }
   .bottom {
     background-color: #14802b;
       border: 1px solid rgba(0, 0, 0, 0.8);
+      margin: 10px;
   }
 footer {
     display: flex;
