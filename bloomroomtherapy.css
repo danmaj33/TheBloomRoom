@@ -28,7 +28,7 @@
     border-radius: 30px;
   }
 
-a,.menu-item {
+.menu-item {
   padding: 20px;
   margin: 5px;
   width: 25%;
@@ -36,7 +36,10 @@ a,.menu-item {
   border-radius: 30px;
   opacity: 75%;
     text-align: center;
-    text-decoration:none;
+}
+
+a {
+  text-decoration:none;
       font-family: "Roboto", sans-serif;
       font-weight: 400;
       font-style: normal;
