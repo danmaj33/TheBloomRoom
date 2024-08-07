@@ -28,7 +28,7 @@
     border-radius: 30px;
   }
 
-.menu-item {
+a, .menu-item {
   padding: 20px;
   margin: 5px;
   width: 25%;
