@@ -19,7 +19,7 @@
    
   }
 
-  footer, .menu {
+  .menu {
     display: flex;
     background-color: #ffffff;
     opacity: 75%;
@@ -55,16 +55,6 @@ a {
       border-radius: 30px;
       opacity: 75%;
   }
-footer {
-    display: flex;
-    background-color: #ffffff;
-    margin: 10px;
-    padding: 20px;
-    border-radius: 30px;
-    opacity: 75%;
-    text-align: center;
-  }
 
-body, header, footer {
-    background-color: rgb(216, 216, 216);
-}
+
+
