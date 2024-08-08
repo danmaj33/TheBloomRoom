@@ -19,7 +19,7 @@
    
   }
 
-  .menu {
+  footer, .menu {
     display: flex;
     background-color: #ffffff;
     opacity: 75%;
