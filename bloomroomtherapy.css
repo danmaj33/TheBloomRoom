@@ -29,11 +29,12 @@
   }
 
 .menu-item {
-  margin: 5px;
+  margin: 10px;
   background-color: #dfdfdf;
   border-radius: 0px;
   opacity: 75%;
   text-align: center;
+  padding: 20p
 }
  
 .menu-item :hover{
