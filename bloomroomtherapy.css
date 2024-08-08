@@ -31,7 +31,7 @@
 .menu-item {
   margin: 5px;
   background-color: #dfdfdf;
-  border-radius: 30px;
+  border-radius: 0px;
   opacity: 75%;
   text-align: center;
 }
