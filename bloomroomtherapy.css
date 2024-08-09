@@ -43,7 +43,7 @@ body > header > div > a:nth-child(1) > div > img {
   display: flex;
 }
  
-a :hover{
+.menu-item:hover {
   border: 1px solid;
   padding: 10px;
   box-shadow: 5px 10px 18px #888888;
