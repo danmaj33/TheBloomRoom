@@ -1,5 +1,7 @@
 
-
+head, body, footer {
+  background-color: #888888;
+}
 .roboto-regular {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
