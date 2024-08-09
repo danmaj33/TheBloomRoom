@@ -42,7 +42,7 @@ head, body, footer {
 body > header > div > a> div > img {
 
 padding-right: 5px;
-background-color: red;
+vertical-align: middle;
 }
 
 body > header > div > a:nth-child(1) > div > img {
