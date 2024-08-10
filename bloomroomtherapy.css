@@ -90,8 +90,8 @@ a {
   }
   
   body {
-    display: grid;
-    grid-template-columns: auto;
+    display: flex;
+    
     padding: 10px;
   }
 }
