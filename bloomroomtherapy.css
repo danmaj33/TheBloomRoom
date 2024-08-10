@@ -117,10 +117,10 @@ body > footer > img {
       position: relative;
       display: block;
     }
-    .menu-item {
+    .menu {
       display: none; 
     }
-    .menu-lines:hover .menu-item {
+    .menu-lines:hover .menu {
       display: block;
     }
     .ftimage {
