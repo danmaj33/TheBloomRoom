@@ -113,22 +113,7 @@ body > footer > img {
     display: flex;
     justify-content: center;
     } 
-    .menu-btn {
-      position: relative;
-      display: block;
-    }
-    .menu {
-      display: none;
-      position: absolute;
-      background-color: #f9f9f9;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      padding: 12px 16px;
-      z-index: 1; 
-    }
-    .menu-btn:hover .menu {
-      display: block;
-    }
+    
     .ftimage {
       display: flex;
       justify-content: center;
