@@ -89,6 +89,10 @@ body > footer > img {
   height: 50px;
 }
 
+.socialmedia {
+  display: flex;
+}
+
 @media only screen and (max-width: 700px) {
   .menu {
     display: block;
