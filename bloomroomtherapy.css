@@ -90,8 +90,9 @@ a {
   }
   
   .grid-container {
-    display: flex;
-    
+    display: grid;
+    grid-template-columns: auto;
     padding: 10px;
   }
+  
 }
