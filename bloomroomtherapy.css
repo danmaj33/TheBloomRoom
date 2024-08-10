@@ -97,13 +97,12 @@ a {
   .menuimg {
     align-self: center;
   }
-  div {
-    background-color: yellow;
-    padding: 20px;
+  body > header > div > a:nth-child(3) > div {
+    
     display: none;
   }
     
-  span:hover + div {
+  body > header > div > a:nth-child(2) > div + span:hover + body > header > div > a:nth-child(3) > div {
     display: block;
   }
 }
