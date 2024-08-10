@@ -113,14 +113,14 @@ body > footer > img {
     display: flex;
     justify-content: center;
     } 
-    .menu-btn {
+    .menu-lines {
       position: relative;
       display: block;
     }
     .menu-item {
       display: none; 
     }
-    .menu-btn:hover .menu-item {
+    .menu-lines:hover .menu-item {
       display: block;
     }
     .ftimage {
