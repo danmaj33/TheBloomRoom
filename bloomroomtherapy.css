@@ -116,6 +116,10 @@ body > footer > img {
       justify-content: center;
     }
 
+    .dropdown span {
+      display:block;
+    }
+
     .dropdown {
       position: relative;
       display: inline-block;
