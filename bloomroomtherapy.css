@@ -129,11 +129,10 @@ body > footer > img {
       z-index: 1;
     }
 
-    .dropdown-content a {
+    .dropdown:hover .dropdown-content {
       display: block;
     }
-    
-    .dropdown:hover .dropdown-content {
-      display: flex;
-    }
+  .dropdown-content a{
+    display:block
+  }
 }
