@@ -20,7 +20,7 @@ head, body, footer {
     text-align: center;
   }
 
-  .menu {
+  .dropdown-content {
     display: flex;
     background-color: #ffffff;
     opacity: 75%;
@@ -28,8 +28,7 @@ head, body, footer {
     margin: 10px;
     border-radius: 30px;
   }
-
-.menu-item, .menu-btn {
+  .dropdown {
   margin: 10px;
   background-color: #dfdfdf;
   border-radius: 0px;
