@@ -115,10 +115,11 @@ a {
     display: flex;
     justify-content: center;
     }
-    body > header > div > a:nth-child(3),body > header > div > a:nth-child(4),body > header > div > a:nth-child(5) {
+    body > header > div > a:nth-child(3),
+    body > header > div > a:nth-child(4),
+    body > header > div > a:nth-child(5) {
       display: none;
-          }
-      }
+    }
     body > header > div > a:nth-child(2):hover ~ body > header > div > a {
 display: flex;
     }
