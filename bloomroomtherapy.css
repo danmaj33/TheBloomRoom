@@ -113,7 +113,7 @@ body > footer > img {
     display: flex;
     justify-content: center;
     } 
-    .menu-lines {
+    .menu-btn {
       position: relative;
       display: block;
     }
@@ -126,7 +126,7 @@ body > footer > img {
   padding: 12px 16px;
   z-index: 1; 
     }
-    .menu-lines:hover .menu {
+    .menu-btn:hover .menu {
       display: block;
     }
     .ftimage {
