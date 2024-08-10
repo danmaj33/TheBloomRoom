@@ -93,12 +93,13 @@ a {
 .socialmedia {
   display: flex;
   justify-content: center;
-
 }
-
 .copyright {
   display: flex;
   justify-content: center;
+}
+body > footer > img {
+  align-self: center;
 }
 
 @media only screen and (max-width: 700px) {
@@ -114,16 +115,5 @@ a {
   .menuimg {
     display: flex;
     justify-content: center;
-    }
-    body > header > div > a:nth-child(3),
-    body > header > div > a:nth-child(4),
-    body > header > div > a:nth-child(5) {
-      display: none;
-    }
-    body > header > div > a:nth-child(2):hover + body > header > div > a {
-display: flex;
-    }
-    body > footer > img {
-      align-self: center;
-    }
+    } 
 }
