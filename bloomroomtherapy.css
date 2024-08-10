@@ -45,7 +45,6 @@ head, body, footer {
 }
 
 body > header > div > a> div > img {
-
 padding-right: 5px;
 vertical-align: middle;
 }
@@ -54,8 +53,9 @@ body > header > div > a:nth-child(1) > div > img {
   display: flex;
 }
  
-.dropdown,.dropdown-content:hover {
+.dropdown {
   background-color: #8f8f8f;
+    border-radius: 30px;
 }
 
 a {
