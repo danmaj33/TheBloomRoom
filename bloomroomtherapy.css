@@ -97,7 +97,7 @@ a {
   .menuimg {
     align-self: center;
   }
-  body > header > div > a:nth-child(3) > div {
+  body > header > div > a:nth-child(3) > div, body > header > div > a:nth-child(4) > div, body > header > div > a:nth-child(5) > div {
     display: none;
   }
     
