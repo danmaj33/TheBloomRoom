@@ -94,5 +94,7 @@ a {
     grid-template-columns: auto;
     padding: 10px;
   }
-  
+  .menuimg {
+    align-self: center;
+  }
 }
