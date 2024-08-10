@@ -120,7 +120,7 @@ a {
     body > header > div > a:nth-child(5) {
       display: none;
     }
-    body > header > div > a:nth-child(2):hover ~ body > header > div > a {
+    body > header > div > a:nth-child(2):hover + body > header > div > a {
 display: flex;
     }
     body > footer > img {
