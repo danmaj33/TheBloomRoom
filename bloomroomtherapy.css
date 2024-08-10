@@ -150,6 +150,6 @@ body > footer > img {
     }
     
     .dropdown:hover .dropdown-content {
-      display: block;
+      display: flex;
     }
 }
