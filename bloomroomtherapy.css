@@ -98,7 +98,6 @@ a {
     align-self: center;
   }
   body > header > div > a:nth-child(3) > div {
-    
     display: none;
   }
     
