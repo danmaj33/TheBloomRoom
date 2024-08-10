@@ -104,6 +104,6 @@ a {
   }
     
   body > header > div > a:nth-child(2) > div:hover + body > header > div > a:nth-child(3) > div {
-    display: block;
+    display:flex;
   }
 }
