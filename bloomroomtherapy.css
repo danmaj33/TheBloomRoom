@@ -123,10 +123,10 @@ body > footer > img {
     }
     
     .menu-item {
-      display: none;
-      
+      display: none; 
     }
     
     .menu-btn:hover .menu-item {
       display: block;
+    }
 }
