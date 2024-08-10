@@ -47,7 +47,7 @@ body > header > div > a:nth-child(1) > div > img {
   display: flex;
 }
  
-.menu-btn:hover,.menu-item:hover {
+.dropdown,.dropdown-content:hover {
   background-color: #8f8f8f;
 }
 
