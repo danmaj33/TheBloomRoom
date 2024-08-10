@@ -98,13 +98,4 @@ a {
     display: flex;
     justify-content: center;
     }
-  
-  body > header > div > a:nth-child(3) > div, body > header > div > a:nth-child(4) > div, body > header > div > a:nth-child(5) > div {
-    display: none;
-  }
-    
-  body > header > div > a:nth-child(2) > div:hover + body > header > div > a:nth-child(3) > div {
-    display:flex;
-  }
-
 }
