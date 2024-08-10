@@ -50,7 +50,7 @@ body > header > div > a:nth-child(1) > div > img {
 }
  
 .menu-item:hover {
-  box-shadow: 1px 2px 1px #888888;
+  background-color: #8f8f8f;
 }
 
 
