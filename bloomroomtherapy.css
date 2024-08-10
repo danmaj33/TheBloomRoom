@@ -152,6 +152,7 @@ body > footer > img {
       display: block;
     }
   .dropdown-content a{
-    display:block
+    display:block;
+    margin-bottom: 25px;
   }
 }
