@@ -20,6 +20,11 @@ head, body, footer {
     text-align: center;
   }
 
+  .menuimg {
+    display: flex;
+    justify-content: center;
+    } 
+
   .dropdown-content {
     display: flex;
     background-color: #ffffff;
