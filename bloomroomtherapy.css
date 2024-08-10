@@ -133,6 +133,10 @@ body > footer > img {
       z-index: 1;
     }
 
+    .dropdown-content a {
+      display: block;
+    }
+
     .dropdown-content {
       display: block;
     }
