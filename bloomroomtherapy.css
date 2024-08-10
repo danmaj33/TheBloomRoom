@@ -49,7 +49,7 @@ body > header > div > a:nth-child(1) > div > img {
   display: flex;
 }
  
-.menu-btn,.menu-item:hover {
+.menu-btn:hover,.menu-item:hover {
   background-color: #8f8f8f;
 }
 
