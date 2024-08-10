@@ -115,6 +115,7 @@ body > footer > img {
     .dropdown {
       position: relative;
       display: inline-block;
+      background-color: #ffffff;
     }
     
     .dropdown-content {
