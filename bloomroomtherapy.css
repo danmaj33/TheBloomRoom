@@ -35,6 +35,10 @@ head, body, footer {
   padding: 20px;
 }
 
+.dropdown span {
+  display:none;
+}
+
 body > header > div > a> div > img {
 
 padding-right: 5px;
