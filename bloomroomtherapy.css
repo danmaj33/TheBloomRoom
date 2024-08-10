@@ -132,6 +132,10 @@ body > footer > img {
       padding: 12px 16px;
       z-index: 1;
     }
+
+    .dropdown-content {
+      display: block;
+    }
     
     .dropdown:hover .dropdown-content {
       display: flex;
