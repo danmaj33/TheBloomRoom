@@ -99,6 +99,10 @@ a {
   justify-content: center;
   height: 35px;
 }
+
+svg {
+  margin: 10px;
+}
 .copyright {
   display: flex;
   justify-content: center;
