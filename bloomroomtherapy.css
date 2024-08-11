@@ -83,6 +83,10 @@ a {
   
 }
 
+.socialbug {
+  margin-right: 0px;
+}
+
 a:hover {
   color: #c2c2c2;
 
