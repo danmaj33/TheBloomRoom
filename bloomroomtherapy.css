@@ -85,6 +85,8 @@ a {
 
 .socialbug {
   margin-right: 0px;
+  display: block;
+  position: absolute;
 }
 
 a:hover {
