@@ -109,6 +109,10 @@ a {
       
   }
 
+  .top {
+    padding: 20px;
+  }
+
 .footer {
   text-align: center;
   font-family: "Roboto", sans-serif;
