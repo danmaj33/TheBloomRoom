@@ -84,7 +84,7 @@ a {
 }
 
 
-a:hover {
+.dropdown-content:hover {
   color: #c2c2c2;
 
 }
