@@ -83,6 +83,11 @@ a {
   
 }
 
+a:hover {
+  color: #c2c2c2;
+
+}
+
   .bottom, .middle, .top {
     background-color: #ffffff;
       margin: 10px;
