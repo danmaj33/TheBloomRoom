@@ -145,6 +145,10 @@ body > footer > img {
     display: flex;
     justify-content: center;
     } 
+
+    .top {
+      display: none;
+    }
     
     .ftimage {
       display: flex;
