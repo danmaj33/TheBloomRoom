@@ -161,7 +161,6 @@ body > footer > img {
 
 .animate-flicker {
   animation: fadeIn 3s;
-  animation: fadeOut 3s;
   position: absolute; 
 }
 .animate-flicker2 {
