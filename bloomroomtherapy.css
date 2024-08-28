@@ -158,20 +158,27 @@ body > footer > img {
   from {opacity: 0;} 
 }
 
+@keyframes fadeOut {
+  to {opacity: 0;}
+}
+
 .animate-flicker {
-  animation: fadeIn 3s infinite alternate;
+  animation: fadeIn 3s;
+  animation: fadeOut 3s;
   animation-delay: 2s;
   position: absolute; 
 }
 .animate-flicker2 {
-  animation: fadeIn 9s infinite alternate;
+  animation: fadeIn 9s;
   animation-delay: 4s;
   position: absolute; 
+  display: none;
 }
 .animate-flicker3 {
-  animation: fadeIn 5s infinite alternate;
-  animation-delay: 6s;
-  position: absolute;  
+  animation: fadeIn 5s;
+  animation-delay: 10s;
+  position: absolute;
+  display: none;  
 }
 
 @media only screen and (max-width: 700px) {
