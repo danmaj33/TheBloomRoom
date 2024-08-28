@@ -169,9 +169,11 @@ body > footer > img {
   animation: fadeIn 5s infinite alternate;
   animation-delay: 6s; 
 }
-body > div > span.top > div:nth-child(1), body > div > span.top > div:nth-child(2), body > div > span.top > div:nth-child(3) {
+
+.animate-flicker, .animate-flicker2, .animate-flicker3 {
   position: absolute;
 }
+
 
 @media only screen and (max-width: 700px) {
   .grid-container {
