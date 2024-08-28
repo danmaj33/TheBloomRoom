@@ -154,12 +154,9 @@ body > footer > img {
   justify-content: center;
 }
 
-@keyframes fadeIn { 
-  from {opacity: 0;} 
-}
-
-@keyframes fadeOut {
-  to {opacity: 0;}
+@keyframes fadeIn {
+  0%,100% { opacity: 0 }
+  50% { opacity: 1 }
 }
 
 .animate-flicker {
