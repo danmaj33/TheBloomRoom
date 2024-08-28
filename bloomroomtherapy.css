@@ -162,6 +162,7 @@ body > footer > img {
 .animate-flicker {
   animation-duration: 10s;
   animation-name: fadeIn;
+  animation-iteration-count: infinite;
   position: absolute; 
 }
 .animate-flicker2 {
