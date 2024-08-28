@@ -44,7 +44,7 @@ body > div > span.middle > div:nth-child(1) > p {
 
   body > div > span.middle > div > p > img, body > div > span.middle > div:nth-child(2) > p > img {
   float: left;
-  margin: 0px 5px 15px 20px;
+  margin: 0px 20px 15px 20px;
   }
 
   .menuimg {
