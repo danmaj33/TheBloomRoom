@@ -159,17 +159,14 @@ body > footer > img {
 
 .animate-flicker {
   animation: fadeIn 3s infinite alternate;
-  position:inherit;
   animation-delay: 2s; 
 }
 .animate-flicker2 {
   animation: fadeIn 9s infinite alternate;
-  position:inherit; 
   animation-delay: 4s;
 }
 .animate-flicker3 {
   animation: fadeIn 5s infinite alternate;
-  position:inherit;
   animation-delay: 6s; 
 }
 body > div > span.top > div:nth-child(1), body > div > span.top > div:nth-child(2), body > div > span.top > div:nth-child(3) {
