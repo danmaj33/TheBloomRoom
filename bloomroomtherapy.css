@@ -96,6 +96,11 @@ a {
   
 }
 
+a:hover {
+  background-color: #B3D37Cff;
+  opacity: 50%;
+}
+
 
 .dropdown-content:hover {
   color: #c2c2c2;
