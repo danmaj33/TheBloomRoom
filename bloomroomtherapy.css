@@ -179,7 +179,7 @@ body > footer > img {
   position: absolute;
   display: none;  
 }
-.review {
+#review {
   font-size: 20px;
 }
 
