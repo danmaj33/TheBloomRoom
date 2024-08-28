@@ -97,8 +97,8 @@ a {
 }
 
 a:hover {
-  background-color: #B3D37Cff;
-  opacity: 50%;
+  background-color: rgba(179, 211, 124, 0.281);
+  
 }
 
 
