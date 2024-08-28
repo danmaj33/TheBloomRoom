@@ -154,7 +154,7 @@ body > footer > img {
 }
 
 keyframes fadeIn { 
-  from { opacity: 0; 
+  from {opacity: 0;} 
 }
 
 .animate-flicker {
