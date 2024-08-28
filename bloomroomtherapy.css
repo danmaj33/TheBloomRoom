@@ -160,15 +160,18 @@ body > footer > img {
 
 .animate-flicker {
   animation: fadeIn 3s infinite alternate;
-  animation-delay: 2s; 
+  animation-delay: 2s;
+  position: absolute; 
 }
 .animate-flicker2 {
   animation: fadeIn 9s infinite alternate;
   animation-delay: 4s;
+  position: absolute; 
 }
 .animate-flicker3 {
   animation: fadeIn 5s infinite alternate;
-  animation-delay: 6s; 
+  animation-delay: 6s;
+  position: absolute;  
 }
 
 @media only screen and (max-width: 700px) {
