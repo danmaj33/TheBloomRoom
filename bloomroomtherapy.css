@@ -233,7 +233,9 @@ input[type=submit]:hover {
     display: flex;
     justify-content: center;
     } 
-
+  .middle {order:1;}
+    .top {order: 2;}
+    .bottom{order:3;}
     
     .ftimage {
       display: flex;
