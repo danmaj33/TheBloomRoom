@@ -37,7 +37,7 @@ body > div > span.middle > div:nth-child(1) > p {
     padding: 10px;
   }
 
-  #insurancegrid-container {
+  .insurancegrid-container {
     display: grid;
     grid-template-columns: 100%;
     padding: 10px;
