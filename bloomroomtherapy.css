@@ -234,9 +234,6 @@ input[type=submit]:hover {
     justify-content: center;
     } 
 
-    .top {
-      display: none;
-    }
     
     .ftimage {
       display: flex;
