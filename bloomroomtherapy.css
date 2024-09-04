@@ -75,6 +75,10 @@ body > div > span.middle > div:nth-child(1) > p {
     background-color:#4e4e4e;
     opacity: 50%;
   }
+  
+  background-image: url(https://github.com/danmaj33/TheBloomRoom/blob/main/Courtheadshot2.jpg?raw=true);
+  background-size: 350px;background-repeat: no-repeat;
+  color: #ffffff;
 
   body > span > img:nth-child(2), .herovideo {
     margin: 5px;
