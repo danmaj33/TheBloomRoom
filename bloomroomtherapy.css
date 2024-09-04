@@ -50,7 +50,6 @@ body > div > span.middle > div:nth-child(1) > p {
   
   .grid-item {
     padding: 10px;
-    text-align: left;
     background-color: #ffffff;
     flex-grow: 1;
     flex-shrink: 1;
