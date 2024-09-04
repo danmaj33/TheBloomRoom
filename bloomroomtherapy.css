@@ -60,6 +60,10 @@ body > div > span.middle > div:nth-child(1) > p {
     height: auto;
   }
 
+  body > span > img:nth-child(2), .herovideo {
+    margin: 5px;
+  }
+
   #icon {
     max-width: 350px;
   }
