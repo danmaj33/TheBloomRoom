@@ -35,7 +35,7 @@ body > div > span.middle > div:nth-child(1) > p {
 
 .grid-container {
   display: flex;
-  flex-direction: row;
+  flex-direction:column;
   flex-wrap: wrap;
   align-content: flex-start;
   margin: 15px;
