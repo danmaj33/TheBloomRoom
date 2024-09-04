@@ -37,6 +37,7 @@ body > div > span.middle > div:nth-child(1) > p {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  align-content: flex-start;
   }
 
   .insurancegrid-container {
