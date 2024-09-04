@@ -327,4 +327,7 @@ input[type=submit]:hover {
     max-height: 250px;
     border-radius: 10px;
   }
+  #icon {
+    max-width: 100%;
+  }
 }
