@@ -84,6 +84,7 @@ body > div > span.middle > div:nth-child(1) > p {
 
   #icon {
     max-width: 350px;
+    min-height: 250px
   }
   #courtimg {
     max-width: 166.6px;
