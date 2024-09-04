@@ -59,6 +59,7 @@ body > div > span.middle > div:nth-child(1) > p {
     padding: 5px;
     height: auto;
     text-wrap: wrap;
+    align-content: center;
   }
 
   body > span > img:nth-child(2), .herovideo {
