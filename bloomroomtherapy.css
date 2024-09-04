@@ -58,7 +58,7 @@ body > div > span.middle > div:nth-child(1) > p {
     margin: 5px;
     text-align: center;
     flex: 25%;
-  max-width: 25%;
+    max-width: 25%;
   }
 
   #gridimg {
