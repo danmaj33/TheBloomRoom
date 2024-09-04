@@ -280,7 +280,7 @@ footer {
     grid-template-columns: auto;
     padding: 10px;
     margin: 0;
-    
+
   }
   .menuimg {
     display: flex;
@@ -342,6 +342,9 @@ footer {
   }
 
   .herovideo {
+    max-width: 350px;
+  }
+  #tile {
     max-width: 350px;
   }
 }
