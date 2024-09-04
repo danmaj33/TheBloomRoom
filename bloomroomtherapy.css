@@ -52,7 +52,7 @@ body > div > span.middle > div:nth-child(1) > p {
     background-color: #ffffff;
     flex-grow: 1;
     flex-shrink: 1;
-    flex-basis: auto;
+    flex-basis: fit-content;
     align-self: auto;
     margin: 5px;
     text-align: center;
