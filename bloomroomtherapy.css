@@ -31,12 +31,6 @@ body > div > span.middle > div:nth-child(1) > p {
   margin-left: 30px;
 }
 
-.hero {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 .herovideo {
   border-radius: 10px;
   margin: 10px;
@@ -64,6 +58,7 @@ body > div > span.middle > div:nth-child(1) > p {
     text-align: left;
     background-color: #ffffff;
     padding: 10px;
+
 
   }
 
