@@ -34,11 +34,11 @@ body > div > span.middle > div:nth-child(1) > p {
 
 
 .grid-container {
-    display: grid;
-   grid-gap: 15px;
-   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-   grid-auto-rows: 200px;
-   grid-auto-flow: dense;
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  flex-basis: auto;
   }
 
   .insurancegrid-container {
@@ -52,11 +52,11 @@ body > div > span.middle > div:nth-child(1) > p {
     padding: 10px;
     text-align: left;
     background-color: #ffffff;
-    padding: 10px;
-    width: fit-content;
-    block-size: fit-content;
+    flex-grow: 1;
 
   }
+
+ 
 
   body > div > span.middle > div > p > img, body > div > span.middle > div:nth-child(2) > p > img {
   float: left;
