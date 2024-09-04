@@ -31,6 +31,10 @@ body > div > span.middle > div:nth-child(1) > p {
   margin-left: 30px;
 }
 
+.hero {
+  position: flex;
+}
+
 .herovideo {
   border-radius: 10px;
   margin: 10px;
