@@ -57,6 +57,7 @@ body > div > span.middle > div:nth-child(1) > p {
     margin: 5px;
     text-align: center;
     padding: 5px;
+    height: auto;
   }
 
   #icon {
@@ -66,7 +67,7 @@ body > div > span.middle > div:nth-child(1) > p {
     max-width: 166.6px;
   }
 
-  
+
 
   #gridimg {
     width: 100px;
