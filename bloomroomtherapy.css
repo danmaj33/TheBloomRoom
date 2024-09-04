@@ -339,7 +339,7 @@ footer {
     display: none;
   }
 
-  #herovideo {
+  .herovideo {
     max-width: 350px;
   }
 }
