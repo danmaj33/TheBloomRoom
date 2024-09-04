@@ -338,4 +338,8 @@ footer {
   #courtimg {
     display: none;
   }
+
+  #herovideo {
+    max-width: 350px;
+  }
 }
