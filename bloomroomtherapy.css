@@ -33,7 +33,9 @@ body > div > span.middle > div:nth-child(1) > p {
 
 .herovideo {
   border-radius: 10px;
-  
+  margin: 10px;
+    min-width: 50%;
+    display: flex;
 }
 
 .grid-container {
