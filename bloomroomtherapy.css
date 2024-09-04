@@ -62,6 +62,7 @@ body > div > span.middle > div:nth-child(1) > p {
     align-content: center;
     max-width: 570px;
     min-height: 250px;
+    border-radius: 10px;
   }
 
   #tile {
