@@ -64,6 +64,9 @@ body > div > span.middle > div:nth-child(1) > p {
   body > span > img:nth-child(2), .herovideo {
     margin: 5px;
   }
+  .grid-item p {
+    word-wrap: wrap;
+  }
 
   #icon {
     max-width: 350px;
