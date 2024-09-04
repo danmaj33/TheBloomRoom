@@ -277,9 +277,7 @@ input[type=submit]:hover {
     display: flex;
     justify-content: center;
     } 
-  .middle {order:1;}
-    .top {order: 2;}
-    .bottom{order:3;}
+  
     
     .ftimage {
       display: flex;
@@ -313,5 +311,20 @@ input[type=submit]:hover {
   .dropdown-content a{
     display:block;
     margin-bottom: 25px;
+  }
+  .grid-item {
+    background-color: #ffffff;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: fit-content;
+    align-self: auto;
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
+    height: auto;
+    text-wrap: wrap;
+    align-content: center;
+    max-height: 250px;
+    border-radius: 10px;
   }
 }
