@@ -66,6 +66,7 @@ body > div > span.middle > div:nth-child(1) > p {
 
   .tile {
     margin: 0;
+    margin-right: 0;
   }
 
   body > span > img:nth-child(2), .herovideo {
