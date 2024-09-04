@@ -37,7 +37,6 @@ body > div > span.middle > div:nth-child(1) > p {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  flex-basis: auto;
   }
 
   .insurancegrid-container {
@@ -52,6 +51,8 @@ body > div > span.middle > div:nth-child(1) > p {
     text-align: left;
     background-color: #ffffff;
     flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
 
   }
 
