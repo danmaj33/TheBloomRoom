@@ -330,4 +330,8 @@ input[type=submit]:hover {
   #icon {
     max-width: 100%;
   }
+  .courtimg {
+    display: none;
+
+  }
 }
