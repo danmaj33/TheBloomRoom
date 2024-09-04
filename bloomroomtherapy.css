@@ -61,7 +61,10 @@ body > div > span.middle > div:nth-child(1) > p {
   
   .grid-item {
     padding: 10px;
-    text-align: center;
+    text-align: left;
+    background-color: #ffffff;
+    padding: 10px;
+
   }
 
   body > div > span.middle > div > p > img, body > div > span.middle > div:nth-child(2) > p > img {
