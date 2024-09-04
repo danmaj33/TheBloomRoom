@@ -76,10 +76,6 @@ body > div > span.middle > div:nth-child(1) > p {
     opacity: 50%;
   }
   
-  
-
-  body > span > img:nth-child(2), .herovideo {
-    margin: 5px;
   }
   .grid-item p {
     word-wrap: wrap;
