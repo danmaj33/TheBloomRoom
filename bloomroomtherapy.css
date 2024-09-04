@@ -32,7 +32,9 @@ body > div > span.middle > div:nth-child(1) > p {
 }
 
 .hero {
-  position: flex;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .herovideo {
