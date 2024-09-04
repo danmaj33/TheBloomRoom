@@ -69,6 +69,11 @@ body > div > span.middle > div:nth-child(1) > p {
     margin-right: 0;
   }
 
+  #tile:hover {
+    background-color:#4e4e4e;
+    opacity: 50%;
+  }
+
   body > span > img:nth-child(2), .herovideo {
     margin: 5px;
   }
