@@ -64,7 +64,7 @@ body > div > span.middle > div:nth-child(1) > p {
     min-height: 250px;
   }
 
-  .tile {
+  #tile {
     margin: 0;
     margin-right: 0;
   }
