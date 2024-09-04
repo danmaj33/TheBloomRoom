@@ -81,6 +81,7 @@ body > div > span.middle > div:nth-child(1) > p {
   }
   #courtimg {
     max-width: 166.6px;
+    align-self: center;
   }
 
   #gridimg {
