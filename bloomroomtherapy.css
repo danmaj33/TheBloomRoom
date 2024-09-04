@@ -61,6 +61,7 @@ body > div > span.middle > div:nth-child(1) > p {
     text-wrap: wrap;
     align-content: center;
     max-width: 570px;
+    min-height: 250px;
   }
 
   body > span > img:nth-child(2), .herovideo {
