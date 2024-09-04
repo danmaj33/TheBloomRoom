@@ -130,17 +130,6 @@ a:hover {
 
 }
 
-  .bottom, .middle, .top {
-    background-color: #ffffff;
-      margin: 10px;
-      border-radius: 30px;
-      
-  }
-
-  .top {
-    padding: 20px;
-    position: relative;
-  }
 
 .footer {
   text-align: center;
