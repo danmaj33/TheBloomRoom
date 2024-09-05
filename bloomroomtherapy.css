@@ -31,7 +31,10 @@ body > div > span.middle > div:nth-child(1) > p {
   margin-right: 30px;
   margin-left: 30px;
 }
-
+ .bannerdiv {
+  display: flex;
+ }
+ 
 .banner {
 max-width: cover;
 }
